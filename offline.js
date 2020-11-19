@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605650347,
+	"version": 1605790182,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,11 +28,20 @@
 		"images/sprite_cinza-sheet0.png",
 		"images/tela_erro-sheet0.png",
 		"images/sprite_fundoazul-sheet0.png",
+		"images/megometro-sheet0.png",
+		"images/fio1_megometro-sheet0.png",
+		"images/fio2_megometro-sheet0.png",
+		"images/botao_abertura_contatos-sheet0.png",
+		"images/botao_abertura_contatos_verde-sheet0.png",
+		"images/tela_fundo_video-sheet0.png",
+		"images/icone_video1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"carregar_mola_1.mp4",
+		"mola_desarnar_.mp4"
 	]
 }
