@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605794408,
+	"version": 1605965491,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,12 @@
 		"images/botao_abertura_contatos_verde-sheet0.png",
 		"images/tela_fundo_video-sheet0.png",
 		"images/icone_video1-sheet0.png",
+		"images/pontoex-sheet0.png",
+		"images/sprite_imagens-sheet0.png",
+		"images/sprite_imagens-sheet1.png",
+		"images/sprite_trafo-sheet0.png",
+		"images/sprite_chave-sheet0.png",
+		"images/fonte2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -42,6 +48,10 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"carregar_mola_1.mp4",
-		"mola_desarnar_.mp4"
+		"mola_desarnar_.mp4",
+		"arco_chave_ar_curto.mp4",
+		"arco_chave_ar_longo.mp4",
+		"arco_chave_oleo_curto.mp4",
+		"arco_chave_oleo_longo_rodado_3.mp4"
 	]
 }

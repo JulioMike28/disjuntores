@@ -19926,9 +19926,9 @@ cr.behaviors.Pin = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Button,
 	cr.plugins_.Mouse,
-	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.video,
+	cr.plugins_.Text,
 	cr.plugins_.Touch,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Pin,
@@ -19964,7 +19964,12 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Button.prototype.acts.SetPos,
 	cr.plugins_.video.prototype.acts.SetPos,
 	cr.plugins_.video.prototype.acts.SetSource,
+	cr.plugins_.video.prototype.acts.Pause,
 	cr.plugins_.Sprite.prototype.acts.MoveToTop,
-	cr.plugins_.Text.prototype.acts.SetText
+	cr.plugins_.Text.prototype.acts.SetText,
+	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
+	cr.plugins_.Text.prototype.acts.MoveToBottom,
+	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
+	cr.plugins_.Text.prototype.acts.SetFontSize
 ];};
 
